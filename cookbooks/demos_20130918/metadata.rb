@@ -9,3 +9,6 @@ version          '0.1.0'
 depends "rightscale"
 
 recipe "demos_20130918::default","Just logs a message"
+recipe "demos_20130918::boot","Just logs a message"
+recipe "demos_20130918::operational","Just logs a message"
+recipe "demos_20130918::decommission","Just logs a message"

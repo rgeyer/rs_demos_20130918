@@ -8,4 +8,4 @@
 
 rightscale_marker
 
-log "  Operational"
+log "  Operational - For The Team Live"
